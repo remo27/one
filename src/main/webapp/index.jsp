@@ -13,7 +13,7 @@
       <h1>Welcome to flm</h1>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
-    
+    </div>
   </header>
 
   <!-- Services Section -->
@@ -66,5 +66,4 @@
   </footer>
 
   <script src="script.js"></script>
-</body>
 </html>
