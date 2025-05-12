@@ -10,10 +10,10 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1Welcome to flm</h1>
+      <h1>Welcome to flm</h1>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
-    </div>
+    
   </header>
 
   <!-- Services Section -->
