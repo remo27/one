@@ -64,6 +64,7 @@
   <footer>
     <p>&copy; 2023 Interior Design Studio. All rights reserved.</p>
   </footer>
+</body>
 
   <script src="script.js"></script>
 </html>
